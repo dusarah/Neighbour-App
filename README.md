@@ -1,7 +1,7 @@
 # HoodApp
-This an app that enables to see the different hoods posted . You can join a hood, create business and post.
+This an app that enables to see the different hoods posted . You can join a hood.
 ## Author
-Tharcissie Idufashe
+Dufitumukiza sarah
 
 ## Technologies Used
 
