@@ -22,3 +22,4 @@ from .base_settings import *
 
 
 TOKEN_API = os.environ.get("TOKEN_API")
+
